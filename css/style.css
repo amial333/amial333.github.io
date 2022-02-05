@@ -1,0 +1,33 @@
+p {
+		color: cyan; 
+		line-height: 1.25;
+	margin-bottom: 1em;
+}
+            .first {
+		color: yellow; 
+		font-weight: bold; 
+  		border-left: 5px solid beige;
+}
+body {
+    background-color: #131313;
+    color: green;
+}
+h1 {
+    color: #FF5733;
+}
+
+.entry-wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.entry {
+    width: 600px;
+}
+ipg {
+   width: 480px;
+}
